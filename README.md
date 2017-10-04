@@ -1,2 +1,8 @@
 # nightwatch-starter
-A simple Nightwatch.js starter for your integration tests
+
+## Installation
+### Dependencies
+`yarn`
+
+## Run tests
+`yarn integration-test`
