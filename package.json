@@ -1,0 +1,11 @@
+{
+  "name": "nightwatch-starter",
+  "scripts": {
+    "integration-test": "nightwatch"
+  },
+  "dependencies": {
+    "nightwatch": "^0.9.16",
+    "selenium-server-standalone-jar": "3.5.3",
+    "chromedriver": "^2.31.0"
+  }
+}
