@@ -1,5 +1,5 @@
 module.exports = {
-  'Demo test Google' : function (browser) {
+  'Github Repositories Navigation' : function (browser) {
     browser
       .url('https://github.com/alexpanov')
       .waitForElementVisible('nav.underline-nav', 1000)
