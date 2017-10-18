@@ -24,6 +24,9 @@ module.exports = {
       selenium_port: 9515,
       selenium_host: 'localhost',
       silent: true,
+      globals: {
+        waitForConditionTimeout: 5000
+      },
       screenshots: {
         enabled: true,
         path: SCREENSHOT_PATH,
