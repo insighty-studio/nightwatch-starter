@@ -11,7 +11,7 @@ module.exports = {
   globals_path: 'tests/globals.js',
   selenium: {
     start_process: true,
-    server_path: './node_modules/selenium-server-standalone-jar/jar/selenium-server-standalone-3.5.3.jar',
+    server_path: './node_modules/selenium-server-standalone-jar/jar/selenium-server-standalone-3.6.0.jar',
     log_path: './logs',
     port: 9515,
     cli_args: {

@@ -4,8 +4,8 @@
     "integration-test": "nightwatch"
   },
   "dependencies": {
+    "chromedriver": "^2.33.1",
     "nightwatch": "^0.9.16",
-    "selenium-server-standalone-jar": "3.5.3",
-    "chromedriver": "^2.31.0"
+    "selenium-server-standalone-jar": "3.6.0"
   }
 }

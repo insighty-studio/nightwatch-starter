@@ -94,9 +94,9 @@ chai-nightwatch@~0.1.x:
     assertion-error "1.0.0"
     deep-eql "0.1.3"
 
-chromedriver@^2.31.0:
-  version "2.32.3"
-  resolved "https://registry.yarnpkg.com/chromedriver/-/chromedriver-2.32.3.tgz#ce84f055bee7cbfe56f31182b276f33256b12bf1"
+chromedriver@^2.33.1:
+  version "2.33.1"
+  resolved "https://registry.yarnpkg.com/chromedriver/-/chromedriver-2.33.1.tgz#e5434f1a1636aa7d826099cd5616276e55ac4ec1"
   dependencies:
     extract-zip "^1.6.5"
     kew "^0.7.0"
@@ -864,9 +864,9 @@ safe-buffer@^5.0.1, safe-buffer@^5.1.1, safe-buffer@~5.1.0, safe-buffer@~5.1.1:
   version "5.1.1"
   resolved "https://registry.yarnpkg.com/safe-buffer/-/safe-buffer-5.1.1.tgz#893312af69b2123def71f57889001671eeb2c853"
 
-selenium-server-standalone-jar@3.5.3:
-  version "3.5.3"
-  resolved "https://registry.yarnpkg.com/selenium-server-standalone-jar/-/selenium-server-standalone-jar-3.5.3.tgz#718af263b80053d3595ca04ea41d1c6aab3009fa"
+selenium-server-standalone-jar@3.6.0:
+  version "3.6.0"
+  resolved "https://registry.yarnpkg.com/selenium-server-standalone-jar/-/selenium-server-standalone-jar-3.6.0.tgz#347585dd610ee02d7a4e76226f2bd780e982cb2e"
 
 semver@~5.0.1:
   version "5.0.3"
