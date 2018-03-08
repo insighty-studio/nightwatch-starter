@@ -6,12 +6,11 @@ module.exports = {
   ],
   output_folder: 'reports',
   custom_commands_path: 'tests/commands',
-  custom_assertions_path: 'tests/assertions',
   page_objects_path: '',
   globals_path: 'tests/globals.js',
   selenium: {
     start_process: true,
-    server_path: './node_modules/selenium-server-standalone-jar/jar/selenium-server-standalone-3.6.0.jar',
+    server_path: './node_modules/selenium-server-standalone-jar/jar/selenium-server-standalone-3.9.1.jar',
     log_path: './logs',
     port: 9515,
     cli_args: {
