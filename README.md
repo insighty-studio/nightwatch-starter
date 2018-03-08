@@ -1,5 +1,8 @@
 # nightwatch-starter
 
+## How to use
+Just clone it, bro! Give me a star while you're at it too.
+
 ## About this starter
 This starter installs Chromedriver from package.json thus requiring minimal initial setup.
 
